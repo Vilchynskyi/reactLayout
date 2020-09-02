@@ -107,10 +107,7 @@ body {
     color: #f3c90c;
 }
 .logo {
-    position: absolute;
-    right: 0;
-    left: 0;
-    margin: 0 auto;
+
     z-index: 100;
     text-align: center;
 }

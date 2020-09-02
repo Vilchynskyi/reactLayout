@@ -13,6 +13,9 @@
 .col_xs_2 {
     width: 16.66%;
 }
+.col_xs_3 {
+    width: 25%;
+}
 .col_xs_4 {
     width: 33.33%;
 }
